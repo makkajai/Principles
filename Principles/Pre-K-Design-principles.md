@@ -1,4 +1,4 @@
-##Pre-K Design principles
+## Pre-K Design principles
 
 
 1. **Fun, Goal-oriented, Math activities** for kids - Math learning is essential, so is Fun. 
@@ -63,6 +63,6 @@
 
 
 
-###References:
+### References:
 
 https://sciencing.com/do-bright-colors-appeal-kids-5476948.html

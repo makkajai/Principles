@@ -1,4 +1,4 @@
-#Key ideas:
+# Key ideas:
 Focus on being a calm and hyper-effective team
 Substance/Quality over quantity of work
 Manage with trust, rather than with control.
@@ -6,7 +6,7 @@ Optimized for achieving flow.
 Balanced life for mental and physical well-being.
 
 
-##Principles
+## Principles
 1. **Communicate well** - Asynchronous as much as possible
 
 	Communicate asynchronously as much as possible. Plan for eventual reply, rather than expecting immediate reply. 

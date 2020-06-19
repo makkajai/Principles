@@ -1,4 +1,4 @@
-##Monster Math Design principles
+## Monster Math Design principles
 
 Refer: Brand principles
 
@@ -71,7 +71,7 @@ Refer: Brand principles
 
 
 
-**References:**
+### References:
 
 https://sciencing.com/do-bright-colors-appeal-kids-5476948.html
 
