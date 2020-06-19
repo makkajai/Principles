@@ -1,4 +1,4 @@
-# Principles
+# Makkajai Principles
 
 All our key principles. 
 
