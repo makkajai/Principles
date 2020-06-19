@@ -1,9 +1,9 @@
-# Key ideas:
-Focus on being a calm and hyper-effective team
-Substance/Quality over quantity of work
-Manage with trust, rather than with control.
-Optimized for achieving flow.
-Balanced life for mental and physical well-being.
+## Key ideas:
+- Focus on being a calm and hyper-effective team
+- Substance/Quality over quantity of work
+- Manage with trust, rather than with control.
+- Optimized for achieving flow.
+- Balanced life for mental and physical well-being.
 
 
 ## Principles
