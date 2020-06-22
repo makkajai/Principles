@@ -40,7 +40,7 @@ Refer: Brand principles
 
 10. Emphasize growth mindset over fixed mindset. 
 
-Stories that show characters learning, and getting better (maybe even overcoming their own doubts) over characters who are already “smart” or powerful. MM1 does this well. 
+	Stories that show characters learning, and getting better (maybe even overcoming their own doubts) over characters who are already “smart” or powerful. MM1 does this well. 
 
 
 11. Design for accessibility, as much as reasonably possible. 
