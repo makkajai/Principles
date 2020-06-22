@@ -27,23 +27,23 @@ Refer: Brand principles
 
 7. Go for “Calm Excitement” experience. 
 
-8. Avoid extreme time-pressure - or things that can create unnecessary stress. On the other hand, keep action lively and exciting for kids. The balance is important to keep them engaged without stressing them out. 
+	Avoid extreme time-pressure - or things that can create unnecessary stress. On the other hand, keep action lively and exciting for kids. The balance is important to keep them engaged without stressing them out. 
 
 
-9. Pick an art style that’s simpler, easier and faster to create good looking art in. Keep them 2d, Child-friendly - not too bright. 
+8. Pick an art style that’s simpler, easier and faster to create good looking art in. Keep them 2d, Child-friendly - not too bright. 
 
-10. Avoid human looking characters. Monsters or other fantasy characters can more easily look natural. 
-
-
-11. Focus on primary and secondary colors (kids can perceive them better) than pastels or muted colors. 
+	Avoid human looking characters. Monsters or other fantasy characters can more easily look natural. 
 
 
-12. Emphasize growth mindset over fixed mindset. 
-
-13. Stories that show characters learning, and getting better (maybe even overcoming their own doubts) over characters who are already “smart” or powerful. MM1 does this well. 
+9. Focus on primary and secondary colors (kids can perceive them better) than pastels or muted colors. 
 
 
-14. Design for accessibility, as much as reasonably possible. 
+10. Emphasize growth mindset over fixed mindset. 
+
+Stories that show characters learning, and getting better (maybe even overcoming their own doubts) over characters who are already “smart” or powerful. MM1 does this well. 
+
+
+11. Design for accessibility, as much as reasonably possible. 
 
 
 	- What if a child is color blind? Design such that colors alone do not indicate what elements are interactive, for e.g. 
@@ -67,7 +67,7 @@ Refer: Brand principles
 	(this is WIP)
 
 
-15. No religious or political statements within the games or the stories. 
+12. No religious or political statements within the games or the stories. 
 
 
 
