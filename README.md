@@ -12,8 +12,8 @@ As all large efforts, this is a live document. Inspired by the Basecamp way of d
 # Sections
 
 
-* Makkajai is YOU
+* [Makkajai is YOU](Makkajai-is-YOU.md)
 * What is our mission
 * What do we Stand for?
-* Where We Work?
+* Where do we Work from?
 * [Principles](Principles.md)
