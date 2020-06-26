@@ -13,7 +13,7 @@ As all large efforts, this is a live document. Inspired by the Basecamp way of d
 
 
 * [Makkajai is YOU](Makkajai-is-YOU.md)
-* What is our mission
+* [What is our mission](What-is-our-mission.md)
 * What do we Stand for?
 * Where do we Work from?
 * [Principles](Principles.md)
