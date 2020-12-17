@@ -10,7 +10,7 @@ A lot of our philosophy about doing things can be distilled into various princip
 6. [Hiring principles](Principles/Hiring-Principles.md)
 
 
-##Why these principles?
+## Why these principles?
 
 Total freedom, generally leads to anarchy. Putting in a lot of rules however, to curb this, can restrict creative freedom, put unnecessary constraints on productivity, and in general, make work a miserable thing to do. 
 
