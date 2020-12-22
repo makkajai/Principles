@@ -1,14 +1,17 @@
 ## Key ideas:
-* Prioritize Learnability, willingness to grow out of comfort zone.
-* Culture fit is extremely important.
-* Missionaries over Mercenaries. 
+* Prioritize Learnability, willingness to grow out of comfort zone, Growth mindset. 
+* Alignment with mission. Are they excited about our purpose?
 * Trust is not optional.
 * Communication and Discipline for effective work in a Remote-first setup.
 * Treat all candidates with respect, even the ones we reject.
 
 
 ## Principles
-* **Test for learnability.** Try to design test projects and iterate with feedback to see if the candidate can learn fast, as well as take feedback well. 
+* **Test for learnability.** Try to design test projects and iterate with feedback to see if the candidate can learn fast, as well as take feedback well. Make sure to give feedback and see how they take it. Check whether they believe they can learn anything with enough effort, or whether they believe more in natural talent. 
+* **Test for alignment with our mission.** Have they researched what we do? Are they excited by it? Do they feel it's a worthwhile cause? 
+
+	We need to know they find our work meaningful, and will be excited to get up every day when they team up with us to make learning fun for kids. 
+
 * **Test for existing knowledge, only to see if their foundations are strong, and to check for demonstration of learnability in their career.** Depending on the experience we are looking for, expectations will increase - if they are learnable, they would have picked a few skills along the way. If they are lesser experienced, focus more on ability to figure things out and learn, than existing knowledge. 
 * **Communicate with written format**, say over email, 2-3 times with the candidate, before the interviews. Ensure their written communication is crisp and clear. 
 * **Honesty is important.** Let them know upfront that you want honesty, so that the expectation is made clear. Make them comfortable, so that they are under no pressure to lie - then see if they communicate openly about difficult things, such as mistakes they have made, credit for projects on their resume and so on.
