@@ -5,7 +5,7 @@ There are some values we hold, which form the foundation on which we perform wor
 These are our core values at Makkajai. These aren't new - most of these should be recognizable. Some of these also manifest themselves in our work or hiring principles. However, this is the starting point, and if anything is in conflict with this, we need to revise it. 
 
 
-- Honestly
+- Honesty
 - Ownership
 - Get Things Done
 - Discipline
